@@ -1,0 +1,48 @@
+
+h4,h2 {
+    text-align: center;
+    margin: 5px 0px;
+}
+
+.titulo{
+    text-align: center;
+    border:solid black;
+    width: 300px;
+    margin: 20px auto;
+}
+
+.time{
+    border:solid black;
+    width: 500px;
+    margin: 2px auto;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #008CBA;; /* Blue */
+    border: 1px solid green;
+    border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    margin: 15px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.2s;
+  }
+
+  button:hover {
+   background-color: #4CAF50; /* Green */
+   color: white;
+ }
+
+ #f1 {
+    width: 600px;
+    margin: 20px auto;
+    text-align : center;
+}
+
+a{
+    text-decoration: none;
+}
